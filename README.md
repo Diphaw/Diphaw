@@ -25,20 +25,15 @@
 
 ## 📈 Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=diphaw&bg_color=0d1117&color=58a6ff&line=21262d&point=58a6ff&hide_border=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diphaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diphaw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=globe&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://[linkedin.com/in/yourprofile](https://www.linkedin.com/in/dipha-wiguna-773a9a311/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diphawgna@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=globe&logoColor=white)](https://phaw-portofolio.vercel.app)
 
 ---
 
