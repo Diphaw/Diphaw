@@ -25,11 +25,11 @@
 
 ## 📈 Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=21262d&point=58a6ff&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=diphaw&bg_color=0d1117&color=58a6ff&line=21262d&point=58a6ff&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diphaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diphaw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
