@@ -3,6 +3,14 @@
 **Software Engineer | Exploring Data Engineer & Data Analyst**  
 Building modern web applications and scalable data pipelines.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -33,14 +41,6 @@ Building modern web applications and scalable data pipelines.
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diphaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ---
