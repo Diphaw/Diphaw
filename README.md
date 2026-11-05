@@ -1,7 +1,7 @@
 # Hey, I'm Dipha Wiguna 👨‍💻
 
-**Software Engineer | Exploring Data Engineering & Analytics Engineering**  
-Bridging responsive frontend experiences with robust backend services and data pipelines (Python, PostgreSQL, dbt, Docker).
+**Software Engineer | Exploring Data Engineer & Data Analyst**  
+Building modern web applications and scalable data pipelines.
 
 ---
 
@@ -35,13 +35,20 @@ Bridging responsive frontend experiences with robust backend services and data p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diphaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diphaw/Diphaw/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/username_kamu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email_kamu@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white)](https://website_kamu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipha-wiguna-773a9a311/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diphawgna@gmail.com)
 
 ---
 
